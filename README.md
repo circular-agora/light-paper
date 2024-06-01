@@ -1,4 +1,4 @@
-# Circular Agora
+# Circular Agora - Converging Toward the Circular Economy
 
 The very first light paper of the plan how to enable circular economy.
 
